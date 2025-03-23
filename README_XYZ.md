@@ -30,11 +30,11 @@ Industrial Control Systems (ICS) are **prime targets for cyber threats**, especi
 Have improvements or recommendations? Feel free to **open an issue or submit a pull request!**  
 
 
-📥 **View Financial Incident Response Plan:**  
-[**View the Financial Incident Response Plan**](https://github.com/Elite-Techs/Manufacturing-ICS-Cyber-Intrusion-Response-Plan/blob/main/XYZ_ICS_Incident_Response_Plan.md)
+📥 **View Manufacturing-ICS-Cyber-Intrusion-Response Plan:**  
+[**View the manufacturing-ICS-Cyber-Intrusion-Response Plan**](https://github.com/Elite-Techs/Manufacturing-ICS-Cyber-Intrusion-Response-Plan/blob/main/XYZ_ICS_Incident_Response_Plan.md)
 
 📥 **Download the PowerPoint Presentation:**  
-[**Download XYZ Health Care – Ransomware Incident Response Plan.pptx**](https://github.com/Elite-Techs/Manufacturing-ICS-Cyber-Intrusion-Response-Plan/blob/main/XYZ%20Manufacturing%20%E2%80%93%20ICS%20Cyber%20Intrusion%20Response%20Plan.pptx)
+[**Download Manufacturing-ICS-Cyber-Intrusion-Response Plan.pptx**](https://github.com/Elite-Techs/Manufacturing-ICS-Cyber-Intrusion-Response-Plan/blob/main/XYZ%20Manufacturing%20%E2%80%93%20ICS%20Cyber%20Intrusion%20Response%20Plan.pptx)
 
    
 📌 **Maintained by:** [**Prince Richard**](https://github.com/Elite-Techs)
